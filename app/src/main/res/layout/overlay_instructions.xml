@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#80000000"
+    android:padding="16dp">
+
+    <!-- Overlay Instructions Content -->
+    <TextView
+        android:id="@+id/instructionsTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/instructions"
+        android:textColor="@color/text_bg"
+        android:fontFamily="@font/product_sans"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <!-- Close Button -->
+    <ImageButton
+        android:id="@+id/closeButton"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/close"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>

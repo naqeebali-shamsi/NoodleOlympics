@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Noodle Olympics</string>
+    <string name="play">PLAY</string>
+    <string name="enter_topic">Enter Topic</string>
+    <string name="eg_celebrities_history">eg: celebrities, history...</string>
+    <string name="cooking_some_noodles">Cooking some noodles...</string>
+    <string name="instructions">🎉 Game Instructions 🎉\n\n1️⃣ Gather players in a circle.\n2️⃣ Choose a guesser. 🤔\n3️⃣ Guesser holds the device on their forehead facing others.\n4️⃣ Players give clues without saying the answer. 🗣️\n5️⃣ Guesser must guess before the timer runs out! ⏳\n\nHave fun! 🎉😄</string>
+</resources>

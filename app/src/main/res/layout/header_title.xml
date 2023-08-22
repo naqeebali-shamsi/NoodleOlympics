@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/header_textview"
+    android:layout_width="0dp"
+    android:layout_height="0dp"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentBottom="true"
+    android:layout_marginLeft="19dp"
+    android:layout_marginTop="58dp"
+    android:layout_marginRight="19dp"
+    android:layout_marginBottom="704dp"
+    android:fontFamily="@font/bungee"
+    android:gravity="center_horizontal|top"
+    android:text="@string/app_name"
+    android:textAppearance="@style/text" />
